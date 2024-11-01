@@ -67,7 +67,7 @@
     "@ckeditor/ckeditor5-restricted-editing": "^35.3.0",
     "@ckeditor/ckeditor5-select-all": "^35.3.0",
     "@ckeditor/ckeditor5-source-editing": "^35.3.0",
-    "@ckeditor/ckeditor5-special-characters": "^35.3.0",
+    "@ckeditor/ckeditor5-special-characters": "35.3.0",
     "@ckeditor/ckeditor5-table": "^35.3.0",
     "@ckeditor/ckeditor5-theme-lark": "^35.3.0",
     "@ckeditor/ckeditor5-typing": "^35.3.0",
