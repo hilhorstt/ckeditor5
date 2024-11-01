@@ -38,6 +38,7 @@ import CloudServices from '@ckeditor/ckeditor5-cloud-services/src/cloudservices'
 import Style from '@ckeditor/ckeditor5-style/src/style';
 import SpecialCharacters from '@ckeditor/ckeditor5-special-characters/src/specialcharacters';
 import SpecialCharactersEssentials from '@ckeditor/ckeditor5-special-characters/src/specialcharactersessentials';
+import SpecialCharactersCustom from '@ckeditor/ckeditor5-special-characters/specialcharacterscustom';
 import FontFamily from '@ckeditor/ckeditor5-font/src/fontfamily';
 import FontSize from '@ckeditor/ckeditor5-font/src/fontsize';
 import FontColor from '@ckeditor/ckeditor5-font/src/fontcolor';
@@ -75,6 +76,7 @@ const plugins = [
 	Paragraph,
 	SpecialCharacters,
 	SpecialCharactersEssentials,
+	SpecialCharactersCustom,
 	Style,
 	Subscript,
 	Superscript,
